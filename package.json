@@ -1,6 +1,6 @@
 {
   "name": "hb-elements",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Custom Elements",
   "main": "./src/index.js",
   "scripts": {
