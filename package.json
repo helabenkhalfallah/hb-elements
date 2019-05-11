@@ -1,8 +1,8 @@
 {
   "name": "hb-elements",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React Custom Elements",
-  "main": "./src/index.js",
+  "main": "./src/components/index.js",
   "scripts": {
     "start": "webpack-dev-server --open --config ./webpack/webpack-dev.config.js --mode development",
     "build": "webpack --config ./webpack/webpack-prod.config.js --mode production",
