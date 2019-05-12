@@ -1,6 +1,6 @@
 {
   "name": "hb-elements",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "React Custom Elements",
   "main": "./src/components/index.js",
   "scripts": {
@@ -40,7 +40,6 @@
     "eslint-plugin-react": "^7.13.0",
     "html-loader": "^0.5.5",
     "html-webpack-plugin": "^3.2.0",
-    "prop-types": "^15.7.2",
     "react-hot-loader": "^4.8.4",
     "style-loader": "^0.23.1",
     "terser-webpack-plugin": "^1.2.3",
@@ -51,6 +50,7 @@
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "styled-components": "^4.2.0"
+    "styled-components": "^4.2.0",
+    "prop-types": "^15.7.2"
   }
 }
